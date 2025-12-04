@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lucy Barney Olaveson's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Lucy Barney Olaveson
+Bachelor of Science in Accounting Student, Data Science Minor
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,77 +13,66 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Obtaining undergraduate degree at Brigham Young University - Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Financial Accounting, SQL, Excel, Python
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Financial planning, utilizing business efficiency, financial planning
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2025 - now`
+__Brigham Young University - Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2024 - 2025`
+__Utah State University__
 
-- Sizar
+`2022 - 2024`
+__College of Southern Idaho__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2024`
+National Champion - National FFA Equine Science 1st Place
 
-Associate, *French Academy of Science*, Paris, France
+
 
 
 
 ## Publications
 
+National FFA New Horizons Magazine [Lucy Barney's Numerous Accomplishments](https://www.ffa.org/the-feed/lessons-learned-from-an-award-winning-sae/)
+
+Pacific Ag NorthWest Radio Article [PANW](https://pnwag.net/idahos-lucy-barney-national-winner-at-national-ffa-convention/)
+
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`2025`
+Special Learning [NGGYU](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2019-2024`
+__Sage Ridge Farms - Dog Breeding Program Business Owner__, Rigby, Idaho
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020-2024`
+__Barney Shires - Draft Horse Trainer__, Lewisville, Idaho
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2025 -->
