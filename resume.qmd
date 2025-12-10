@@ -3,7 +3,7 @@ layout: cv
 title: Lucy Barney Olaveson's CV
 ---
 # Lucy Barney Olaveson
-Bachelor of Science in Accounting Student, Data Science Minor
+Bachelor of Science in Accounting Student, Data Science Minor 
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
